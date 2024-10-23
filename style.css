@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(7, 14, 7);
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-image: url('c:\Users\johnk\OneDrive\Pictures\Saved Pictures\download (1).jpg.jpg'); /* Path to your image */
+        background-size: cover; /* Make the image cover the entire background */
+        background-position: center; /* Center the background image */
+        display: flex;            
+        justify-content: center;  
+        align-items: center;      
+        height: 100vh;           
+    }
+    
+}
